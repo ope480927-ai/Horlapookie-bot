@@ -4,8 +4,8 @@ export default {
   // Bot configuration
   prefix: '?',
   ownerNumber: '2347049044897',
-  botName: 'Horlapookie',
-  ownerName: 'HORLAPOOKIE',
+  botName: '✦✦✦ 𝐇 𝐎 𝐑 𝐋 𝐀 𝐏 𝐎 𝐎 𝐊 𝐈 𝐄 ✦✦✦',
+  ownerName: '𝓗𝓞𝓡𝓛𝓐𝓟𝓞𝓞𝓚𝓘𝓔',
   sessionId: 'HORLA-POOKIE-SESSION-ID',
   BOOM_MESSAGE_LIMIT: 50,  
 

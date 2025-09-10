@@ -1,0 +1,90 @@
+[
+  {
+    "id": "897A59BAD589100F9F24B1F09A1167E7",
+    "sender": "2349122222622@s.whatsapp.net",
+    "senderNumber": "2349122222622",
+    "chat": "120363299912897572@g.us",
+    "chatType": "group",
+    "content": ".menu",
+    "mediaType": "",
+    "timestamp": "2025-09-10T19:30:59.562Z",
+    "fromMe": false
+  },
+  {
+    "id": "2B5892DC0CBDBD9FBE13350939DC23E5",
+    "sender": "2349122222622@s.whatsapp.net",
+    "senderNumber": "2349122222622",
+    "chat": "120363299912897572@g.us",
+    "chatType": "group",
+    "content": "?menu",
+    "mediaType": "",
+    "timestamp": "2025-09-10T19:30:59.960Z",
+    "fromMe": false
+  },
+  {
+    "id": "F7251AF4BF73B1006743A3B200A7D7EB",
+    "sender": "2349122222622@s.whatsapp.net",
+    "senderNumber": "2349122222622",
+    "chat": "120363299912897572@g.us",
+    "chatType": "group",
+    "content": "?ship",
+    "mediaType": "",
+    "timestamp": "2025-09-10T19:31:43.432Z",
+    "fromMe": false
+  },
+  {
+    "id": "87157CA4885280D241E22F403FCFF9DA",
+    "sender": "2349122222622@s.whatsapp.net",
+    "senderNumber": "2349122222622",
+    "chat": "120363299912897572@g.us",
+    "chatType": "group",
+    "content": "?ship @2347049044897 @2347014097672",
+    "mediaType": "",
+    "timestamp": "2025-09-10T19:32:00.671Z",
+    "fromMe": false
+  },
+  {
+    "id": "6292EAC35C7D170E939879A95A0702A2",
+    "sender": "27715621110@s.whatsapp.net",
+    "senderNumber": "27715621110",
+    "chat": "120363299912897572@g.us",
+    "chatType": "group",
+    "content": "?",
+    "mediaType": "",
+    "timestamp": "2025-09-10T19:32:41.659Z",
+    "fromMe": false
+  },
+  {
+    "id": "2950A1714BEF5444A0DA0BDDD5877186",
+    "sender": "27715621110@s.whatsapp.net",
+    "senderNumber": "27715621110",
+    "chat": "120363299912897572@g.us",
+    "chatType": "group",
+    "content": "?ship @27722185671 @2347039765468",
+    "mediaType": "",
+    "timestamp": "2025-09-10T19:35:33.572Z",
+    "fromMe": false
+  },
+  {
+    "id": "7F08AAF74185A8859E62F50BCBE3318C",
+    "sender": "27715621110@s.whatsapp.net",
+    "senderNumber": "27715621110",
+    "chat": "120363299912897572@g.us",
+    "chatType": "group",
+    "content": "?spawnpokemon",
+    "mediaType": "",
+    "timestamp": "2025-09-10T19:35:36.012Z",
+    "fromMe": false
+  },
+  {
+    "id": "6FADF0A8833F54678707510DD97CF965",
+    "sender": "27715621110@s.whatsapp.net",
+    "senderNumber": "27715621110",
+    "chat": "120363299912897572@g.us",
+    "chatType": "group",
+    "content": "Hyy",
+    "mediaType": "",
+    "timestamp": "2025-09-10T19:38:45.560Z",
+    "fromMe": false
+  }
+]
